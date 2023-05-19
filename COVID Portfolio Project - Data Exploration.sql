@@ -164,9 +164,6 @@ select * from PercentPopulationVaccinated
 
 
 
-
-
-
 -- Queries used for Tableau Project
 ----------------------------------------------------
 
